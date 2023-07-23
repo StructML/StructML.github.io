@@ -12,4 +12,9 @@ contributors: ["Krishna"]
 
 ### The beginnings
 
-Hello world
+Hello world, 
+
+We are embarking on a journey to make the task of going from unstructured data to structured data easy for everyone.
+We strongly believe this is a basic necessity for unlocking the true potential of automation and there by increasing
+productivity levels across the board.
+
