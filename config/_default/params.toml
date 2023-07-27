@@ -3,27 +3,26 @@
 ## Homepage
 title = "StructML"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "ML Platform "
+description = "a ML platform that helps you in going quickly from unstructured to structured data"
 
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+domainTLD = "structml.com"
+titleHome = "StructML"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "@structml"
+twitterCreator = "@structml"
 
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
 schemaName = "Doks"
 schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
+schemaAuthorTwitter = "https://twitter.com/structml"
+schemaAuthorGitHub = "https://github.com/structml"
 schemaLocale = "en-US"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
@@ -31,9 +30,9 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
+schemaTwitter = "https://twitter.com/structml"
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
+schemaGitHub = "https://github.com/structml"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -57,10 +56,10 @@ copyRight = "Copyright (c) 2023- Krishna"
 
 # Alert
 alert = false
-alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
+alertText = "Like StructML? <a class=\"alert-link\" href=\"https://github.com/structml\">Star on GitHub</a>. Thanks!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/structml"
 editPage = false
 
 [options]
