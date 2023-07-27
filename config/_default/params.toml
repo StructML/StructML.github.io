@@ -13,15 +13,15 @@ domainTLD = "structml.com"
 titleHome = "StructML"
 
 ## Twitter Cards
-twitterSite = "@structml"
-twitterCreator = "@structml"
+twitterSite = "@structmlHQ"
+twitterCreator = "@structmlHQ"
 
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
 schemaName = "Doks"
 schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/structml"
+schemaAuthorTwitter = "https://twitter.com/structmlHQ"
 schemaAuthorGitHub = "https://github.com/structml"
 schemaLocale = "en-US"
 schemaLogo = "logo-doks.png"
@@ -30,7 +30,7 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/structml"
+schemaTwitter = "https://twitter.com/structmlHQ"
 schemaLinkedIn = ""
 schemaGitHub = "https://github.com/structml"
 schemaSection = "blog"
